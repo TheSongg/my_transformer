@@ -1,0 +1,6 @@
+import torch
+
+
+class Encoder(nn.Module):
+    def __init__(self, layer, N):
+        pass
